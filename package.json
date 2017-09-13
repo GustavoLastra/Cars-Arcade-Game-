@@ -1,0 +1,24 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "first test using grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoLastra/Cars.git"
+  },
+  "author": "Gustavo Lastra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoLastra/Cars/issues"
+  },
+  "homepage": "https://github.com/GustavoLastra/Cars#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.1.0"
+  }
+}
